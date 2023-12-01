@@ -1,0 +1,7 @@
+Meta tags are important because they impact how your site appears in the SERPs.
+More people will be inclined to click through to your website. 
+They will therefore impact your traffic and engagement rates, which can impact your SEO and rankings.
+Meta tags are an important part of a solid SEO strategy.
+Meta tags are snippets of code that tell search engines important information about your web page, such as how they should display it in search results. 
+They also tell web browsers how to display it to visitors. 
+Every web page has meta tags, but they're only visible in the HTML code.
